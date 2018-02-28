@@ -447,7 +447,7 @@ public class SearchFragment extends DialogFragment implements DialogInterface.On
         }
         if (newlist.size() == 5) {
             newlist.add(0, str);//插入到第一个
-            newlist.remove(newlist.size());//删除最后一个
+            newlist.remove(newlist.size()-1);//删除最后一个
         } else {
             newlist.add(0, str);//插入到第一个
         }
