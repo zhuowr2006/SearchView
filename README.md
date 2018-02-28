@@ -3,7 +3,7 @@
 
 先看预览图(转换后有一点点失真):
 
-<img src="https://github.com/wenwenwen888/SearchDialog/blob/master/preview/1.png" width="30%" height="30%">
+<img src="https://github.com/wenwenwen888/SearchDialog/blob/master/preview/2.png" width="30%" height="30%">
 
 前言
 -------
